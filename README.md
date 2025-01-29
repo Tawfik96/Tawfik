@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-![Profile Banner](https://your-image-link.com) <!-- Optional: Add a banner image -->
+![Profile Banner](https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) <!-- Optional: Add a banner image -->
 
 ## 🚀 About Me:
 - 🎭 I'm a **creative technologist**, passionate about **coding, storytelling, and entrepreneurship**.  
@@ -21,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=black)
+![C](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png)
 
 ---
 
