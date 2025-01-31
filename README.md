@@ -1,3 +1,15 @@
+![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
+
+🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
+✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
+
+
+
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
@@ -39,16 +51,10 @@
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://apoorvtyagi.tech/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-<!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://apoorvtyagi.tech/)
+
+<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/avinashsingh020/"><img src="https://img.shields.io/badge/-@avinashsingh020-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ---
 
