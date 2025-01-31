@@ -14,7 +14,7 @@
 - 🎈 I am 2 Meters tall !!!
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 🧑‍💻 Tech I work on :
-- 
+  
 <!--
 💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
 
@@ -39,6 +39,9 @@
 🎯 "Keep Learning, Keep Building, Keep Creating!" 🚀
 </p>
 
+<p align="center">
+     ... 
+</p>
 
 <p align="center">
 <a href="https://www.instagram.com/tawfik_46/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Tawfik" height="40" width="40" /></a>&nbsp;
