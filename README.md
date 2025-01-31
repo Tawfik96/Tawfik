@@ -6,11 +6,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a CS student at the American University In Cairo (AUC) 
+- 🏦 I'm a passionate, innovative senior software engineer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I work on different things in computer areas
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
+- 📝 I study CS at the American University In Cairo (AUC) 
+- 💻 I use daily: **.js**, **.py**,  **.sql**
 - 📖 I am currently reading **Steal Like An Artist** by Austing Kleon
+- 🎈 I am 2 Meters tall !!!
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 🧑‍💻 Tech I work on :
 - 
